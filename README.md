@@ -1,5 +1,6 @@
 # AWS CloudFormation
 It is from the tutorial of A cloud guru Ltd. -- "AWS CloudFormation" course by Fernando Honig.
+
 ## create-s3-bucket
 * create a new s3 bucket and AWS assigns name to it randomly.
 
@@ -14,7 +15,7 @@ It is from the tutorial of A cloud guru Ltd. -- "AWS CloudFormation" course by F
 * 2 NAT gateway (1 on each az)
 * 2 elastic IPs (1 for each NAT gateway)
 
-##create-codedeploy-infra
+## create-codedeploy-infra
 * codedeploy infrastructure setup
 
 ## workpress
