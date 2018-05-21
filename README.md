@@ -17,11 +17,3 @@ It is from the tutorial of A cloud guru Ltd. -- "AWS CloudFormation" course by F
 
 ## create-codedeploy-infra
 * codedeploy infrastructure setup
-
-## workpress
-* 3 security groups
-* 1 elastic load balancer (multi-AZs)
-* 1 RDS MySQL instance
-* 1 AutoScaling Group
-* 1 EC2 Instance
-* 1 launchConfiguration
