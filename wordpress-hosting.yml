@@ -17,6 +17,9 @@ Parameters:
     Type: String
     Default: w0rdpr355
     NoEcho: true
+  TestString:
+    Type: String
+    Default: test9
 Mappings:
   RegionMap:
     us-east-1:
@@ -73,7 +76,7 @@ Resources:
     Properties:
       ImageId: !FindInMap [RegionMap, !Ref "AWS::Region", AMALINUX]
       InstanceType: !FindInMap [InstanceSize, !Ref EnvironmentSize, EC2]
-      KeyName: id_rsa
+      KeyName: AdvancedCFN
       UserData:
         "Fn::Base64":
           !Sub |
