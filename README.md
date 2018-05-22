@@ -1,8 +1,8 @@
 # AWS CloudFormation
 It is from the tutorials of A cloud guru Ltd.
--- "AWS CloudFormation" course by Fernando Honig.
--- "Advanced AWS CloudFormation" course by Adrian (5-start course!).
--- "AWS CodeDeploy" by Alex Glover.
+* "AWS CloudFormation" course by Fernando Honig.
+* "Advanced AWS CloudFormation" course by Adrian (5-start course!).
+* "AWS CodeDeploy" by Alex Glover.
 
 ## create-s3-bucket.json
 * create a new s3 bucket and AWS assigns name to it randomly.
@@ -29,10 +29,3 @@ It is from the tutorials of A cloud guru Ltd.
 * automatically install and configure Wordpress.
 * end2end, 1-click deployment & self-service portal.
 * serve global large and small customers.
-
-### resources:
-* VPC
-* NAT gateway
-* S3 Bucket
-* RDS (Relational Database Service)
-*
