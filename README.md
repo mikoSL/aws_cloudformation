@@ -1,7 +1,7 @@
 # AWS CloudFormation
 It is from the tutorials of A cloud guru Ltd.
 -- "AWS CloudFormation" course by Fernando Honig.
--- "Advanced AWS CloudFormation" course by Adrian.
+-- "Advanced AWS CloudFormation" course by Adrian (5-start course!).
 -- "AWS CodeDeploy" by Alex Glover.
 
 ## create-s3-bucket.json
