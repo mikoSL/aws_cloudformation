@@ -21,7 +21,9 @@ It is from the tutorials of A cloud guru Ltd.
 ## create-codedeploy-infra.json
 * codedeploy infrastructure setup
 
+
 ## workpress-hosting project
+
 ### Background:
 * WordPress hosting website is build on LAMP stacks.
 
