@@ -21,7 +21,8 @@ It is from the tutorials of A cloud guru Ltd.
 ## create-codedeploy-infra.json
 * codedeploy infrastructure setup
 
-## workpress-hosting.yml
+## https://github.com/mikoSL/aws_cloudformation/tree/master/wordpress_hosting!
+   workpress-hosting.yml
 ### Background:
 * WordPress hosting website is build on LAMP stacks.
 
