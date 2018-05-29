@@ -31,3 +31,12 @@ It is from the tutorials of A cloud guru Ltd.
 * automatically install and configure Wordpress.
 * end2end, 1-click deployment & self-service portal.
 * serve global large and small customers.
+
+## Self-service development portal- Project for Facilities Mgmt SW company
+
+### Purpose:
+* To allow the developers/pre-sale/QA to deploy a specific version of application into its own dedicated application environment. Optionally, to provide access to the environment to customers.
+
+### Requirements
+* It does not require access to AWS console. Staff can deploy application environment without requiring access to AWS console. * They can browse webpage, click button then have a fully functioned provisioned application environment available in 10 minutes.
+* They can delete the environment in the same portal page.  
