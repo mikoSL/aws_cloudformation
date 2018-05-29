@@ -1,5 +1,5 @@
 # Self-service development portal- Project for Facilities Mgmt SW company
-* "Advanced AWS CloudFormation" course by Adrian (5-start course!).
+* All files are from "Advanced AWS CloudFormation" course by Adrian (5-start course!).
 * Purpose: To allow the developers/pre-sale/QA to deploy a specific version of application into its own dedicated application environment. Optionally, to provide access to the environment to customers.
 * It does not require access to AWS console. Staff can deploy application environment without requiring access to AWS console. They can browse webpage, click button then have a fully functioned provisioned application environment available in 10 minutes. They can delete the environment in the same portal page.  
 
